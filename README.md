@@ -1,4 +1,4 @@
 Team: 
-Adam Alessia-Nicoleta
-Gavril Laura-Elena (leader)
-Todireanu Laura-Maria
+Adam Alessia-Nicoleta,
+Gavril Laura-Elena (leader),
+Todireanu Laura-Maria,
